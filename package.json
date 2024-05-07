@@ -1,0 +1,25 @@
+{
+  "name": "shouldibuysolana",
+  "version": "1.0.0",
+  "description": "Tells you if it's a good time to buy some solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-dot-com/shouldibuysolana.git"
+  },
+  "keywords": [
+    "cryptocurrency"
+  ],
+  "author": "israel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Israel-dot-com/shouldibuysolana/issues"
+  },
+  "homepage": "https://github.com/Israel-dot-com/shouldibuysolana#readme",
+  "dependencies": {
+    "sol-to-ngn": "^1.0.1"
+  }
+}
